@@ -494,13 +494,6 @@ $$
 
 Esta desigualdad, que se sigue únicamente de la positividad de los parámetros, confirma que el umbral de eliminación global propuesto es más exigente. La condición local aprovecha el valor positivo $y=1/b_2$ en el equilibrio, mientras que la estimación de la derivada de Lyapunov considera el peor caso $y\geq0$ y no utiliza una cota inferior estrictamente positiva para esa población.
 
-### Resultados que no se afirman
-
-- No se estimaron parámetros a partir de datos observados ni se reportaron errores de ajuste.
-- No se incluyeron ejecuciones numéricas, mapas de bifurcación o cálculos de exponentes de Lyapunov. Aunque el título de la práctica menciona el caos, el desarrollo entregado se concentra en condiciones de estabilidad y eliminación.
-- La invariancia del octante no negativo no implica automáticamente la existencia de un conjunto compacto absorbente.
-- La condición $\rho>r_1d_3/a_{13}$ se obtuvo utilizando una cota específica de $z$; su aplicación directa debe respetar la región y las hipótesis en que dicha cota es válida.
-
 ---
 
 <a id="interpretacion"></a>
