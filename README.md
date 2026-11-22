@@ -323,7 +323,7 @@ $$
 de donde se obtiene
 
 $$
-0\leq y(t)\leq\max\left\{y(0),\frac{1}{b_2}\right\}.
+0 \leq y(t) \leq \max\left\(y(0),\frac{1}{b_2}\right\).
 $$
 
 La región $0\leq y\leq1/b_2$ también resulta invariante para condiciones iniciales dentro de ella.
