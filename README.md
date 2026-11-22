@@ -32,7 +32,7 @@ Repositorio académico de la asignatura **Modelado Matemático**, correspondient
 12. [Estructura del repositorio](#estructura)
 13. [Requisitos](#requisitos)
 14. [Reproducibilidad](#reproducibilidad)
-15. [Aviso sobre el uso de inteligencia artificial](#Aviso sobre el uso de inteligencia artificial)
+15. [Aviso sobre el uso de inteligencia artificial](#Aviso)
 
 ---
 
@@ -605,7 +605,7 @@ No se requiere comparar cifras experimentales: las verificaciones consisten en c
 
 ---
 
-<a id="Aviso sobre el uso de inteligencia artificial"></a>
+<a id="Aviso"></a>
 ## Aviso sobre el uso de inteligencia artificial
 
 El contenido de este README fue redactado y organizado con asistencia de inteligencia artificial generativa, a partir del documento de la Práctica 2. Las ecuaciones, los procedimientos y los resultados descritos corresponden al trabajo académico documentado; la redacción de este archivo no sustituye la consulta ni la verificación del informe original. 
