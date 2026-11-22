@@ -294,7 +294,7 @@ $$
 Por el principio de comparación, para condiciones iniciales no negativas,
 
 $$
-0\leq x(t)\leq \max\left\{x(0),\frac{1}{b_1}\right\}.
+0 \leq x(t) \leq \max\left(x(0),\frac{1}{b_1}\right).
 $$
 
 En particular, el intervalo $0\leq x\leq 1/b_1$ es positivamente invariante **si la condición inicial ya pertenece a ese intervalo**. El valor $1/b_1$ no debe interpretarse como una cota válida instantáneamente para una trayectoria que parte con $x(0)>1/b_1$.
