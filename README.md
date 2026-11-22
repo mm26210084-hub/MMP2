@@ -605,12 +605,10 @@ No se requiere comparar cifras experimentales: las verificaciones consisten en c
 
 ---
 
-<a id="referencias"></a>
-## Referencias y alcance
+<a id="Aviso sobre el uso de inteligencia artificial"></a>
+## Aviso sobre el uso de inteligencia artificial
 
-La fuente principal de esta descripción es el informe **Práctica 2: Caos en sistemas biológicos**, elaborado por Jesús René Correa Martínez para la asignatura Modelado Matemático. En el apartado de positividad se menciona el criterio de De Leenheer y Aeyels, y en el estudio global se emplean los conceptos del método directo de Lyapunov y el principio de invariancia de LaSalle. El documento fuente proporcionado no contiene los datos bibliográficos completos de esas obras; por tanto, no se incluyen citas editoriales inventadas en este README.
-
-El texto del repositorio resume el desarrollo y añade precisiones sobre el dominio de validez de las cotas. El informe adjunto sigue siendo la referencia para el procedimiento y los resultados presentados en la práctica.
+El contenido de este README fue redactado y organizado con asistencia de inteligencia artificial generativa, a partir del documento de la Práctica 2. Las ecuaciones, los procedimientos y los resultados descritos corresponden al trabajo académico documentado; la redacción de este archivo no sustituye la consulta ni la verificación del informe original. La inteligencia artificial también se utilizó para añadir aclaraciones sobre el alcance de algunas condiciones matemáticas.
 
 ---
 
